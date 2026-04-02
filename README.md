@@ -1,3 +1,3 @@
 # Designs
 
-Flowershow landing page design ideas
+Flowershow landing page designs
